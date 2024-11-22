@@ -1,0 +1,8 @@
+[build]
+  base = "./"
+  publish = "./dist/"
+  command = "npm run build"
+
+[template.environment]
+  NAME = "Della Safitry",
+  PIC = "https://telegra.ph/Birth-Day-Della-Safitry-11-22",
